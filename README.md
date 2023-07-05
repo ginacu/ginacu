@@ -2,7 +2,7 @@
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 </p>
 <h1 align="center">Hi there 👋, I'm Gina</h1>
-<h3 align="center">Front-End Web Developer and Machine Learning Enthusiast | Bangkit Academy 2022 Graduate</h3>
+<h3 align="center">Front-End Web and Machine Learning Enthusiast | Bangkit Academy 2022 Graduate</h3>
 
 - 💬 Ask me about **Front-End Web, Python, and Machine Learning**
 
