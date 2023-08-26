@@ -6,11 +6,9 @@
 
 - 💬 Ask me about **Front-End Web, Python, and Machine Learning**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 Check out my portfolio at **[https://ginacu.github.io/](https://ginacu.github.io/)**
 
 - 📫 How to reach me **ginacu12@gmail.com**
-
-- ⚡ Fun fact **Loves coffee and rain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
